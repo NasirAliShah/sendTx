@@ -1,0 +1,25 @@
+{
+  "name": "sendtx",
+  "version": "1.0.0",
+  "description": "sequence number issue solved, adding multiple public keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasirAliShah/sendTx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@onflow/fcl": "^0.0.77",
+    "@onflow/types": "^0.0.6",
+    "elliptic": "^6.5.4",
+    "sha3": "^2.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/NasirAliShah/sendTx/issues"
+  },
+  "homepage": "https://github.com/NasirAliShah/sendTx#readme"
+}
